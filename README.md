@@ -4,4 +4,6 @@ The files in this repository are provided for use in the online course, Introduc
 
 For more information about this course or other courses we offer, please visit our website at [TheSoftwareGuild.com](https://TheSoftwareGuild.com).
 
-![The Software Guild](https://the-software-guild.s3.amazonaws.com/tsg-logos/swg_logo-black.png)
+![The Software Guild](https://the-software-guild.s3.amazonaws.com/tsg-logos/swg_logo-black.png) 
+
+Suki
